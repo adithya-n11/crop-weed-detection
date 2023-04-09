@@ -1,0 +1,15 @@
+names:
+- bg
+- ca
+- crop
+- cs
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: lettuce-weed-4
+  url: https://universe.roboflow.com/project-kuuew/lettuce-weed-4/dataset/1
+  version: 1
+  workspace: project-kuuew
+test: ../test/images
+train: lettuce-weed-4-1/train/images
+val: lettuce-weed-4-1/valid/images
